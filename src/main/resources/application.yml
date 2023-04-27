@@ -6,3 +6,4 @@ management:
       base-path: "/actuator"
       exposure:
         include: "*"
+aaa: 123
